@@ -13,9 +13,9 @@ $ pip2 install futures
 
 $ pip2 install bs4
 
-$ git clone https://github.com/Lyanx1/vikov3
+$ git clone https://github.com/pajar-07/Crack-Fb
 
-$ cd 
+$ cd Crack-Fb
 
 $ git pull
 
